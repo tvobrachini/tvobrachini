@@ -13,9 +13,10 @@ Welcome to my GitHub! I am an IT professional blending a decade of IT Internal/E
 
 I strongly believe in applying standard Software Development Lifecycles (SDLC) and AI to modernize Governance, Risk, and Compliance. 
 
-- 🔭 **Currently working on:** [SCF Auto-Crosswalker](https://github.com/tvobrachini/scf-auto-crosswalker) — an AI-powered GRC tool eliminating manual spreadsheet mapping.
-- 🧠 **Exploring:** Automated control testing methodologies, AI-driven evidence analysis (LangChain, Llama-3), and maintaining an AI-powered "Second Brain" for IT control testing in Obsidian.
+- 🔭 **Current Focus:** I am constantly exploring and building new projects at the intersection of GRC, Audit Engineering, and AI.
 - ⚙️ **Automation Stack:** Python, Streamlit, LangChain, GitHub Actions CI/CD.
+
+👉 **[To see exactly what I am working on right now, check out the Case Studies & Projects section of my portfolio!](https://tvobrachini.github.io/#projects)**
 
 ---
 
@@ -32,7 +33,7 @@ Instead of relying solely on manual checklists, I leverage code and modern archi
 
 ### 📄 Full Professional Profile
 
-For a comprehensive breakdown of my **10+ years of professional experience** leading IT audits and security compliance programs at top-tier fintechs like **Nubank**, **Mercado Livre**, **Stone**, and **PwC Brasil**, please visit my interactive portfolio:
+For a comprehensive breakdown of my **10+ years of professional experience** leading IT audits and security compliance programs at top-tier fintechs like **Nubank**, **Mercado Livre**, **Stone**, and **PwC**, please visit my interactive portfolio:
 
 👉 **[Explore my full Career History, Publications, and Case Studies here ](https://tvobrachini.github.io)**
 
