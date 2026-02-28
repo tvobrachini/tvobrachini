@@ -56,8 +56,6 @@ My deep background in IT audits and architecture provides a solid and natural ex
 - **Education:**
   - BA Computer Science & Business - Trinity College Dublin (Study Abroad Program)
   - Bachelor of Technology (Information Technology) - FATEC Bragança Paulista
-  - Bachelor of Technology (Computer Programming) - IFSP
-  - Data Science Bootcamp - IGTI
 
 ### 📝 Publications
 - **"Impact of systemic management on project development: A study in a software house"**
