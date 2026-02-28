@@ -7,18 +7,7 @@
 
 Welcome to my GitHub! I am an IT professional blending a decade of IT Internal/External Audit experience with Software Development and Security Engineering. On this profile, you'll find my open-source work focused on **Audit Engineering**, **Compliance-as-Code**, and modern **GRC Automation**.
 
----
 
-### 🚀 What I'm building on GitHub
-
-I strongly believe in applying standard Software Development Lifecycles (SDLC) and AI to modernize Governance, Risk, and Compliance. 
-
-- 🔭 **Current Focus:** I am constantly exploring and building new projects at the intersection of GRC, Audit Engineering, and AI.
-- ⚙️ **Automation Stack:** Python, Streamlit, LangChain, GitHub Actions CI/CD.
-
-👉 **[To see exactly what I am working on right now, check out the Case Studies & Projects section of my portfolio!](https://tvobrachini.github.io/#projects)**
-
----
 
 ### 💻 My Technical Arsenal
 
@@ -31,9 +20,9 @@ Instead of relying solely on manual checklists, I leverage code and modern archi
 
 ---
 
-### 📄 Full Professional Profile
+### 🚀 Projects & Full Professional Profile
 
-For a comprehensive breakdown of my **10+ years of professional experience** leading IT audits and security compliance programs at top-tier fintechs like **Nubank**, **Mercado Livre**, **Stone**, and **PwC**, please visit my interactive portfolio:
+For a comprehensive breakdown of my **10+ years of professional experience** (leading audits at **Nubank**, **Mercado Livre**, **Stone**, and **PwC**) and to see exactly what I am currently building at the intersection of GRC and AI:
 
 👉 **[Explore my full Career History, Publications, and Case Studies here ](https://tvobrachini.github.io)**
 
