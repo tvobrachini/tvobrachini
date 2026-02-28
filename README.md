@@ -22,19 +22,31 @@ My deep background in IT audits and architecture provides a solid and natural ex
 - **Governance, Risk, and Compliance (GRC):** Designing risk assessments, compliance frameworks, and security policies based on ISO 27001, NIST, COBIT, SOX, PCI-DSS, and OWASP.
 - **Security Observability & Auditing:** Evaluating the design and effectiveness of internal controls, identifying weaknesses, and providing actionable recommendations.
 - **Incident Response & Analysis:** Simulating and auditing security incidents (e.g., Account Takeovers) to improve organizational resilience.
-- **Cloud Security:** Ensuring secure, standardized environments (Cloud Audit Academy Certified).
+- **Cloud Security:** Ensuring secure, standardized environments (Cloud Audit Academy Agnostic Certified).
+
+---
+
+### 🚀 Case Studies & Automation Portfolios
+
+- **[SCF Auto-Crosswalker](https://github.com/tvobrachini/scf-auto-crosswalker)**: An open-source, AI-powered internal GRC tool designed to eliminate manual spreadsheet mapping. Built with Python, Streamlit, and LangChain (Llama-3). Features compliance gap analysis and Compliance-as-Code (tested via `pytest` and GitHub Actions CI/CD).
 
 ---
 
 ### 💼 Professional Experience
 
-- **IT Internal Audit Specialist** at **Nubank** (Sep 2025 - Present)
-  - *Previously: IT Internal Audit (Mar 2023 - Sep 2025)*
+- **IT Internal Audit Specialist** at **Nubank** (Mar 2023 - Present)
+  - Lead the evaluation of complex IT general controls and risk matrices. Spearhead the deployment of AI-driven automation for audit documentation and control testing methodologies within a high-velocity fintech ecosystem.
 - **IT Internal Audit** at **Mercado Livre** (Nov 2021 - Mar 2023)
+  - Directed comprehensive ITGC assessments and advanced cloud security audits across LATAM's premier e-commerce infrastructure.
 - **IT Internal Audit** at **Stone** (Feb 2021 - Nov 2021)
-- **Risk Assurance Senior Associate** at **PwC Brasil** (Jul 2015 - Feb 2021)
-  - Developed IT and business process audits, building flowcharts, risk matrices, and applying audit methodologies.
-- *Prior experience as a Software Developer (PHP, ASP, Python/Django) across various tech companies.*
+  - Specialized in PCI-DSS compliance and enterprise risk management, executing rigorous internal audit testing over mission-critical financial applications.
+- **Risk Assurance Senior Associate (External Audit)** at **PwC Brasil** (Jul 2015 - Feb 2021)
+  - Orchestrated end-to-end IT and business process audits for global clients, rigorously evaluating the design and operational effectiveness of complex internal controls (SOX compliance).
+
+#### Early Technical Background (2009 - 2015)
+- **PHP Developer** at Tmax Technology
+- **Software Development Intern** at OSG Sulamericana (Python/Django, Progress 4GL)
+- **Software Developer** at 3Wise Tecnologia (VB6, ASP.NET, C#, MySQL/Oracle)
 
 ---
 
