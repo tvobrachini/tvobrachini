@@ -61,11 +61,6 @@ My deep background in IT audits and architecture provides a solid and natural ex
 
 ---
 
-### 📫 Connect with me
-
-- **LinkedIn:** [linkedin.com/in/tvobrachini](https://www.linkedin.com/in/tvobrachini)
-- **Email:** tvobrachini@gmail.com
-
 > *"I believe governance and security go beyond compliance — they represent clarity, accountability, and trust. My goal is to help organizations evolve responsibly, building secure and transparent digital environments."*
 
 <!--
