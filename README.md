@@ -4,6 +4,9 @@
 
 # Hi there! I'm Tiago Brachini (tvobrachini) 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-tvobrachini.github.io-purple?style=for-the-badge&logo=Web)](https://tvobrachini.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tvobrachini-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tvobrachini)
+
 ### 🛡️ Senior IT Auditor | InfoSec, GRC & Cloud Security
 
 I am an IT professional with over 10 years of experience specializing in Governance, Risk, and Compliance (GRC) and IT Internal & External Auditing.
