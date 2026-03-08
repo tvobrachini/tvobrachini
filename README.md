@@ -13,10 +13,10 @@ Welcome to my GitHub! I am an IT professional blending a decade of IT Internal/E
 
 Instead of relying solely on manual checklists, I leverage code and modern architecture to audit cloud environments, build compliance automations, and manage risk:
 
-- **AI & Automation:** `Python`, `LangChain`, `Claude Code`, `Vertex AI`, `Streamlit`
+- **AI & Automation:** `Python`, `LangChain`, `LangGraph`, `Claude Code`, `Vertex AI`, `Streamlit`
 - **Cloud & Infrastructure:** `AWS`, `GCP`, `Linux`, `Docker`
 - **Security & Observability:** `Loki`, `Promtail`, `Grafana`
-- **GRC Frameworks:** `ISO 27001`, `NIST`, `PCI-DSS`, `SOX`, `COBIT`
+- **GRC Frameworks:** `Secure Controls Framework (SCF)`, `ISO 27001`, `NIST`, `PCI-DSS`, `SOX`, `COBIT`
 
 ---
 
