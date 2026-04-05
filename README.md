@@ -24,6 +24,6 @@ Instead of relying solely on manual checklists, I leverage code and modern archi
 
 For a comprehensive breakdown of my **10+ years of professional experience** (leading audits at **Nubank**, **Mercado Livre**, **Stone**, and **PwC**) and to see exactly what I am currently building at the intersection of GRC and AI:
 
-👉 **[Explore my full Career History, Publications, and Case Studies here ](https://tvobrachini.github.io/#projects)**
+👉 **[Explore my full Career History, Publications, and Case Studies here ](https://tvobrachini.github.io/#strategic-projects)**
 
 > *"I believe governance and security go beyond compliance — they represent clarity, accountability, and trust. My goal is to help organizations evolve responsibly, building secure and transparent digital environments."*
