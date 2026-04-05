@@ -13,7 +13,7 @@ Welcome to my GitHub! I am an IT professional blending a decade of IT Internal/E
 
 Instead of relying solely on manual checklists, I leverage code and modern architecture to audit cloud environments, build compliance automations, and manage risk:
 
-- **AI & Automation:** `Python`, `LangGraph`, `AWS MCP (Model Context Protocol)`, `Claude Code`, `Streamlit`
+- **AI & Automation:** `Python`, `CrewAI`, `LangGraph`, `AWS MCP (Model Context Protocol)`, `Claude Code`, `Streamlit`
 - **Audit Engineering & SDLC:** `Docker`, `uv`, `Pytest-BDD`, `GitHub Actions`, `Account ID Redaction`
 - **Cloud & Infrastructure:** `AWS (Restricted Audit Context)`, `GCP`, `Linux`
 - **GRC Frameworks:** `Secure Controls Framework (SCF)`, `ISO 27001`, `NIST`, `PCI-DSS`, `SOX`, `COBIT`
