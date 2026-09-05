@@ -28,6 +28,6 @@ I bridge the gap between granular technical operations and broad executive busin
 ### 🌐 Explore More
 
 👉 **[View my full Interactive Portfolio & Executive CV](https://tvobrachini.github.io)**
-* [Executive Summary](https://tvobrachini.github.io/#executive-summary) • [Career Experience](https://tvobrachini.github.io/#professional-experience) • [Strategic Projects](https://tvobrachini.github.io/#strategic-projects) • [Credentials & Education](https://tvobrachini.github.io/#credentials)
+* [Executive Summary](https://tvobrachini.github.io/#executive-summary) • [Career Experience](https://tvobrachini.github.io/#professional-experience) • [Strategic Projects](https://tvobrachini.github.io/#strategic-projects) • [Capabilities](https://tvobrachini.github.io/#capabilities) • [Credentials & Education](https://tvobrachini.github.io/#credentials)
 
 > *"I believe governance and security go beyond compliance — they represent clarity, accountability, and trust. My goal is to help organizations evolve responsibly, building secure and transparent digital environments."*
