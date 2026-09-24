@@ -11,7 +11,7 @@ I bridge the gap between granular technical operations and broad executive busin
 
 ### 🚀 Featured Strategic Projects
 
-- **[GRC Audit Swarm](https://github.com/tvobrachini/grc-audit-swarm)** — Stateful three-phase audit automation engine powered by CrewAI & Groq. Features human-in-the-loop gates (IIA Standard 2340), live AWS evidence collection, and an immutable PCAOB AS 1215 SHA-256 evidence vault.
+- **[GRC Audit Swarm](https://github.com/tvobrachini/grc-audit-swarm)** — Stateful three-phase audit automation engine powered by CrewAI & Groq. Features human approval gates between phases (modelled on IIA Standard 2340 engagement supervision), live read-only AWS evidence collection, and a SHA-256-hashed evidence vault in the spirit of PCAOB AS 1215 documentation integrity (design inspiration, not compliance claims).
 - **[SCF Auto-Crosswalker](https://github.com/tvobrachini/scf-auto-crosswalker)** — Programmatic Framework-as-Code data hub that maps unstructured IT policies and cloud findings directly to the Secure Controls Framework (SCF).
 
 ---
