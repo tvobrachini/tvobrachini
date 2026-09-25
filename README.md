@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-tvobrachini.github.io-4a6053?style=for-the-badge&logo=Web)](https://tvobrachini.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tvobrachini-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tvobrachini)
 
-### 🛡️ IT Audit Specialist & GRC Engineer
+### 🛡️ IT Audit Specialist
 
 I bridge the gap between granular technical operations and broad executive business risk. With over a decade of IT internal and external audit experience across top-tier fintech and enterprise ecosystems (**Nubank**, **Mercado Livre**, **Stone**, and **PwC**), my work focuses on **Audit Engineering**, **Compliance-as-Code**, and **Multi-Agent AI Automation**.
 
