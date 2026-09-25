@@ -7,21 +7,24 @@
 
 I bridge the gap between granular technical operations and broad executive business risk. With over a decade of IT internal and external audit experience across top-tier fintech and enterprise ecosystems (**Nubank**, **Mercado Livre**, **Stone**, and **PwC**), my work focuses on **Audit Engineering**, **Compliance-as-Code**, and **Multi-Agent AI Automation**.
 
+Based in São Paulo (UTC−3) and open to remote roles worldwide.
+
+> The projects below are personal projects built on my own time. They are not affiliated with, sponsored by or endorsed by any current or past employer.
+
 ---
 
 ### 🚀 Featured Strategic Projects
 
-- **[GRC Audit Swarm](https://github.com/tvobrachini/grc-audit-swarm)** — Stateful three-phase audit automation engine powered by CrewAI & Groq. Features human approval gates between phases (modelled on IIA Standard 2340 engagement supervision), live read-only AWS evidence collection, and a SHA-256-hashed evidence vault in the spirit of PCAOB AS 1215 documentation integrity (design inspiration, not compliance claims).
-- **[SCF Auto-Crosswalker](https://github.com/tvobrachini/scf-auto-crosswalker)** — Programmatic Framework-as-Code data hub that maps unstructured IT policies and cloud findings directly to the Secure Controls Framework (SCF).
+- **[GRC Audit Swarm](https://github.com/tvobrachini/grc-audit-swarm)** — Stateful three-phase audit automation engine built with CrewAI. Features human approval gates between phases (modelled on IIA Standard 2340 engagement supervision), live read-only AWS evidence collection, and a SHA-256-hashed evidence vault in the spirit of PCAOB AS 1215 documentation integrity (design inspiration, not compliance claims).
+- **[SCF Auto-Crosswalker](https://github.com/tvobrachini/scf-auto-crosswalker)** — Suggests mappings from IT policies and cloud findings to Secure Controls Framework (SCF) control IDs, for human review.
 
 ---
 
-### 💻 Technical Arsenal & Frameworks
+### 💻 Skills
 
-- **AI & Automation:** `Python`, `TypeScript`, `CrewAI`, `LangGraph`, `Groq`, `Claude Code`, `Streamlit`
-- **Audit Engineering & SDLC:** `Docker`, `uv`, `Pytest-BDD`, `GitHub Actions`, `Account ID Redaction`
-- **Cloud & Infrastructure:** `AWS (Restricted Audit Context)`, `GCP`, `IAM Policy Modeling`, `Linux / UNIX`
-- **GRC & Regulatory Frameworks:** `Secure Controls Framework (SCF)`, `ISO 27001`, `NIST CSF`, `PCI-DSS`, `SOX (ITGC)`, `COBIT`
+- **Audit & GRC:** IT general controls, SOX, ISO 27001, NIST CSF, COBIT, PCI DSS, Secure Controls Framework
+- **Cloud:** AWS, GCP
+- **Automation & data:** Python, Scala, TypeScript, Databricks, BigQuery, CrewAI, LangGraph, Streamlit, Docker, GitHub Actions
 
 ---
 
@@ -29,5 +32,3 @@ I bridge the gap between granular technical operations and broad executive busin
 
 👉 **[View my full Interactive Portfolio & Executive CV](https://tvobrachini.github.io)**
 * [Executive Summary](https://tvobrachini.github.io/#executive-summary) • [Career Experience](https://tvobrachini.github.io/#professional-experience) • [Strategic Projects](https://tvobrachini.github.io/#strategic-projects) • [Capabilities](https://tvobrachini.github.io/#capabilities) • [Credentials & Education](https://tvobrachini.github.io/#credentials)
-
-> *"I believe governance and security go beyond compliance — they represent clarity, accountability, and trust. My goal is to help organizations evolve responsibly, building secure and transparent digital environments."*
