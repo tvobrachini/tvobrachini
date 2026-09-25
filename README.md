@@ -7,7 +7,7 @@
 
 I bridge the gap between granular technical operations and broad executive business risk. With over a decade of IT internal and external audit experience across top-tier fintech and enterprise ecosystems (**Nubank**, **Mercado Livre**, **Stone**, and **PwC**), my work focuses on **Audit Engineering**, **Compliance-as-Code**, and **Multi-Agent AI Automation**.
 
-Based in São Paulo (UTC−3) and open to remote roles worldwide.
+Based in Bragança Paulista, SP, Brazil (UTC−3) and open to remote roles worldwide.
 
 > The projects below are personal projects built on my own time. They are not affiliated with, sponsored by or endorsed by any current or past employer.
 
