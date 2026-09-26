@@ -24,7 +24,7 @@ Based in Bragança Paulista, SP, Brazil (UTC-3) and open to remote roles worldwi
 
 - **Audit & GRC:** IT general controls (ITGC/ITAC), SOX, ISO 27001, NIST CSF, COBIT, PCI DSS, Secure Controls Framework
 - **Cloud:** AWS, GCP
-- **Automation & data:** SQL, Python, Scala, TypeScript, Databricks, BigQuery, CrewAI, LangGraph, Streamlit, Docker, GitHub Actions
+- **Automation & data:** SQL, Python, Scala, Databricks, BigQuery, CrewAI, LangGraph, Docker, GitHub Actions
 
 ---
 
