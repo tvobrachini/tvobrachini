@@ -15,8 +15,8 @@ Based in Bragança Paulista, SP, Brazil (UTC-3) and open to remote roles worldwi
 
 ## Open-source projects
 
-- **[GRC Audit Swarm](https://github.com/tvobrachini/grc-audit-swarm)** — Three-phase, human-gated audit automation platform built with CrewAI. Features human approval gates between phases (modeled on engagement supervision, IIA Global Internal Audit Standards 12.3, formerly 2340), live read-only AWS evidence collection, and a SHA-256-hashed evidence vault with deterministic quote matching, and OSCAL Assessment Results export.
-- **[SCF Auto-Crosswalker](https://github.com/tvobrachini/scf-auto-crosswalker)** — Suggests mappings from IT policies and cloud findings to Secure Controls Framework (SCF) control IDs, for human review.
+- **[GRC Audit Swarm](https://github.com/tvobrachini/grc-audit-swarm)** — Three-phase, human-gated audit automation platform built with CrewAI. Features human approval gates between phases (modeled on engagement supervision, IIA Global Internal Audit Standards 12.3, formerly 2340), live read-only AWS evidence collection, a SHA-256-hashed evidence vault with deterministic quote matching, and schema-validated OSCAL 1.2.1 Assessment Results export.
+- **[SCF Auto-Crosswalker](https://github.com/tvobrachini/scf-auto-crosswalker)** — Suggests Secure Controls Framework (SCF) control IDs for IT policies, cloud findings and audit scopes, for human review, and checks a control list against frameworks such as SOC 2 per requirement (gap analysis, no language model). CSV and OSCAL export.
 
 ---
 
