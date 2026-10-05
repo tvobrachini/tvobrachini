@@ -5,7 +5,7 @@
 
 ## Global IT Audit Specialist
 
-IT auditor with 10+ years across PwC and three publicly listed fintechs (Nubank, MercadoLibre, StoneCo), focused on IT general controls, SOX, SDLC governance and cloud security (AWS, GCP). In my own time I build open-source tools that apply data and AI to audit work.
+IT auditor with 10+ years across Big Four (PwC) and three publicly listed fintechs (Nubank, MercadoLibre, StoneCo), specialized in IT general and application controls (ITGC/ITAC), SOX/ICFR, SDLC governance and cloud security (AWS, GCP). In my own time I build open-source tools that apply data and AI to audit work.
 
 Based in Bragança Paulista, SP, Brazil (UTC-3) and open to remote roles worldwide.
 
@@ -22,7 +22,8 @@ Based in Bragança Paulista, SP, Brazil (UTC-3) and open to remote roles worldwi
 
 ## Skills
 
-- **Audit & GRC:** IT general controls (ITGC/ITAC), SOX, ISO 27001, NIST CSF, COBIT, PCI DSS, Secure Controls Framework
+- **Audit & GRC:** IT general and application controls (ITGC/ITAC), SOX/ICFR, COSO, COBIT, ITIL, PCAOB and IIA standards, third-party risk management (TPRM) audits, SOC and ISAE report review, ISO 27001, NIST CSF, PCI DSS, Secure Controls Framework
+- **Audit tools:** Perinity GRC, ServiceNow GRC, Jira; SAP and Oracle audit work programs
 - **Cloud:** AWS, GCP
 - **Automation & data:** SQL, Python, Scala, Databricks, BigQuery, CrewAI, LangGraph, Docker, GitHub Actions
 
@@ -31,4 +32,4 @@ Based in Bragança Paulista, SP, Brazil (UTC-3) and open to remote roles worldwi
 ## More
 
 👉 **[Portfolio and CV](https://tvobrachini.github.io)**
-* [Executive Summary](https://tvobrachini.github.io/#executive-summary) • [Professional Experience](https://tvobrachini.github.io/#professional-experience) • [Open-Source Projects](https://tvobrachini.github.io/#strategic-projects) • [Capabilities](https://tvobrachini.github.io/#capabilities) • [Credentials & Education](https://tvobrachini.github.io/#credentials)
+* [Summary](https://tvobrachini.github.io/#executive-summary) • [Professional Experience](https://tvobrachini.github.io/#professional-experience) • [Open-Source Projects](https://tvobrachini.github.io/#strategic-projects) • [Skills](https://tvobrachini.github.io/#capabilities) • [Education](https://tvobrachini.github.io/#credentials)
