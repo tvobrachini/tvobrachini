@@ -7,7 +7,7 @@
 
 IT auditor with 10+ years across Big Four (PwC) and three publicly listed fintechs (Nubank, MercadoLibre, StoneCo), specialized in IT general and application controls (ITGC/ITAC), SOX/ICFR, SDLC governance and cloud security (AWS, GCP). In my own time I build open-source tools that apply data and AI to audit work.
 
-Based in Bragança Paulista, SP, Brazil (UTC-3) and open to remote roles worldwide.
+Based in Bragança Paulista, SP, Brazil (UTC-3).
 
 > The projects below are personal projects built on my own time. They are not affiliated with, sponsored by or endorsed by any current or past employer.
 
@@ -22,7 +22,7 @@ Based in Bragança Paulista, SP, Brazil (UTC-3) and open to remote roles worldwi
 
 ## Skills
 
-- **Audit & GRC:** IT general and application controls (ITGC/ITAC), SOX/ICFR, COSO, COBIT, ITIL, PCAOB and IIA standards, third-party risk management (TPRM) audits, SOC and ISAE report review, ISO 27001, NIST CSF, PCI DSS, Secure Controls Framework (SCF) for control mapping and audit planning, Banco Central do Brasil rules for payment institutions (Res. BCB 85), LGPD/GDPR, BCP/DR
+- **Audit & GRC:** IT general and application controls (ITGC/ITAC), SOX/ICFR, COSO, COBIT, ITIL, PCAOB and IIA standards, third-party risk management (TPRM) audits, SOC report attestation (preparer and reviewer), SOC 2 and ISAE report review, ISO 27001, NIST CSF, PCI DSS, Secure Controls Framework (SCF) for control mapping and audit planning, Banco Central do Brasil rules for payment institutions (Res. BCB 85), LGPD/GDPR, BCP/DR
 - **Audit tools:** Perinity GRC, ServiceNow GRC, in-house Jira-based audit management; SAP and Oracle audit work programs; reporting with Google and AWS tools and Power BI
 - **Cloud & security:** AWS, GCP, IAM, SDLC/DevSecOps, vulnerability management
 - **Automation & data:** SQL, Python (Pandas), Scala, Databricks, BigQuery, CrewAI, LangGraph, Docker, GitHub Actions
