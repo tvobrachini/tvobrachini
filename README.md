@@ -22,7 +22,7 @@ Based in Bragança Paulista, SP, Brazil (UTC-3).
 
 ## Skills
 
-- **Audit & GRC:** IT general and application controls (ITGC/ITAC), SOX/ICFR, COSO, COBIT, ITIL, PCAOB and IIA standards, third-party risk management (TPRM) audits, SOC 1 and SOC 2 attestation (preparer and reviewer), SOC 2 and ISAE report review, ISO 27001, NIST CSF, PCI DSS, Secure Controls Framework (SCF) for control mapping and audit planning, Banco Central do Brasil rules for payment institutions (Res. BCB 85), LGPD/GDPR, BCP/DR
+- **Audit & GRC:** IT general and application controls (ITGC/ITAC), SOX/ICFR, coordination and consolidation of SOX 404 internal-controls testing across multinational component teams (PwC), COSO, COBIT, ITIL, PCAOB and IIA standards, third-party risk management (TPRM) audits, SOC 1 and SOC 2 attestation (preparer and reviewer), SOC 2 and ISAE report review, ISO 27001, NIST CSF, PCI DSS, Secure Controls Framework (SCF) for control mapping and audit planning, Banco Central do Brasil rules for payment institutions (Res. BCB 85), LGPD/GDPR, BCP/DR
 - **Audit tools:** Perinity GRC, ServiceNow GRC, in-house Jira-based audit management; SAP and Oracle audit programs; reporting with Google and AWS tools and Power BI
 - **Cloud & security:** AWS, GCP, IAM, SDLC/DevSecOps, vulnerability management
 - **Automation & data:** SQL, Python (Pandas), Scala, Databricks, BigQuery, CrewAI, LangGraph, Docker, GitHub Actions
