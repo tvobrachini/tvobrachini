@@ -7,7 +7,7 @@
 
 IT internal auditor with 10+ years across a Big 4 firm (PwC) and three publicly listed fintechs (Nubank, MercadoLibre, StoneCo), specialized in IT general controls (ITGC), IT application controls (ITAC), Sarbanes-Oxley (SOX/ICFR), technology risk, SDLC governance, cloud security (AWS, GCP) and cybersecurity audit. In my own time I build open-source tools that apply data and AI to audit work.
 
-Based in Brazil (UTC-3), open to international opportunities.
+Based in Brazil (UTC-3), seeking remote roles worldwide.
 
 > The projects below are personal projects built on my own time. They are not affiliated with, sponsored by or endorsed by any current or past employer.
 
